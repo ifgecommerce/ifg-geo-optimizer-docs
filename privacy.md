@@ -59,4 +59,4 @@ We may update this policy from time to time. Material changes will be reflected 
 **Questions about your data?**
 [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com)
 
-[← Back to Help Center](index.md)
+[← Back to Help Center](index.html)

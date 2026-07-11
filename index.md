@@ -6,10 +6,10 @@ This site has everything you need whether you're using the app, evaluating it, o
 
 ## Guides
 
-- **[Getting Started](getting-started.md)** — install the app and run your first audit in a few minutes.
-- **[FAQ](faq.md)** — answers to the questions merchants ask most.
-- **[Changelog](changelog.md)** — what's shipped, in order.
-- **[Privacy Policy](privacy.md)** — what data we collect, why, and who we share it with.
+- **[Getting Started](getting-started.html)** — install the app and run your first audit in a few minutes.
+- **[FAQ](faq.html)** — answers to the questions merchants ask most.
+- **[Changelog](changelog.html)** — what's shipped, in order.
+- **[Privacy Policy](privacy.html)** — what data we collect, why, and who we share it with.
 
 ## Support
 

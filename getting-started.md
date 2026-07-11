@@ -36,4 +36,4 @@ On Grow or Unlimited, open **FAQ product**, pick a product, and click **Generate
 
 That's the full loop. Most merchants re-run an audit after adding new products, and check the crawler simulator whenever they update a product description.
 
-[← Back to Help Center](index.md)
+[← Back to Help Center](index.html)

@@ -4,7 +4,7 @@
 Traditional SEO optimizes for search engines that rank and list links. GEO (Generative Engine Optimization) optimizes for AI systems that read your content and generate an answer or a recommendation directly — ChatGPT, Perplexity, Gemini, and Google AI Overviews. The two overlap, but GEO cares about things classic SEO tools don't check: whether your product page has complete structured data, whether an AI crawler can actually read your content without executing JavaScript, and whether your copy is written in a way that's easy to quote and cite.
 
 **Does the app ever touch my customers' data?**
-No. IFG GEO Optimizer only requests `read_products` and `write_products` — the two Shopify permissions needed to read and improve your product catalog. It never requests access to orders, customers, or any personal data, and there's nothing in the app that could read that data even if it wanted to. See the [Privacy Policy](privacy.md) for the full breakdown.
+No. IFG GEO Optimizer only requests `read_products` and `write_products` — the two Shopify permissions needed to read and improve your product catalog. It never requests access to orders, customers, or any personal data, and there's nothing in the app that could read that data even if it wanted to. See the [Privacy Policy](privacy.html) for the full breakdown.
 
 **What does the "Fix" button actually change?**
 It writes missing schema.org structured data to a product metafield — things like technical specifications derived from your existing product options. It never touches your product title, description, images, or price, and it never invents data it can't verify: a missing barcode, for example, stays missing rather than being guessed.
@@ -27,4 +27,4 @@ Yes — up to 500 generations a month, shared across the feature even on the Unl
 **I found a bug or something looks wrong. Who do I tell?**
 Email [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com) with what you saw and, if you can, which product or page — that's usually enough to track it down quickly.
 
-[← Back to Help Center](index.md)
+[← Back to Help Center](index.html)

@@ -20,4 +20,4 @@ All changes that reach merchants, newest first.
 
 Initial release: embedded app setup, Shopify authentication, and the underlying data infrastructure.
 
-[← Back to Help Center](index.md)
+[← Back to Help Center](index.html)

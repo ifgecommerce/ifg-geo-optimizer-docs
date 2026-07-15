@@ -1,0 +1,38 @@
+<!-- Selettore lingua a dropdown — stesso principio dell'app (Select nativo,
+     nessuna icona bandiera: SUPPORTED_LANGUAGES in app/constants/languages.js
+     usa solo codice+nome nativo, mai bandiere). Sostituisce la riga di
+     bandiere precedente, insostenibile a 30 lingue. `include.pages` (stringa
+     CSV di codici, opzionale) limita le opzioni mostrate — usato dal
+     changelog, che resta a sole 5 lingue (documentazione tecnica). -->
+{% assign current = include.current %}
+{% assign slug = include.slug %}
+{% if current == "en" %}
+  {% assign root_prefix = "" %}
+{% else %}
+  {% assign root_prefix = "../" %}
+{% endif %}
+{% if include.pages %}
+  {% assign allowed = include.pages | split: "," %}
+{% endif %}
+<select class="lang-select" onchange="if(this.value){window.location.href=this.value;}" aria-label="Language / Lingua">
+  {% for lang in site.data.languages %}
+    {% assign ok = true %}
+    {% if allowed %}
+      {% unless allowed contains lang.code %}
+        {% assign ok = false %}
+      {% endunless %}
+    {% endif %}
+    {% if ok %}
+      {% if lang.code == "en" %}
+        {% assign href = root_prefix | append: slug | append: ".html" %}
+      {% else %}
+        {% assign href = root_prefix | append: lang.code | append: "/" | append: slug | append: ".html" %}
+      {% endif %}
+      <option value="{{ href }}"{% if lang.code == current %} selected{% endif %}>{{ lang.name }}</option>
+    {% endif %}
+  {% endfor %}
+</select>
+<noscript>
+  <a href="{{ root_prefix }}{{ slug }}.html">English</a> ·
+  <a href="{{ root_prefix }}it/{{ slug }}.html">Italiano</a>
+</noscript>

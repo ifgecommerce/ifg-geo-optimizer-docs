@@ -3,65 +3,26 @@
 
 @import "{{ site.theme }}";
 
-/* Selettore lingua: barra a piena larghezza, elementi distribuiti in
-   orizzontale e centrati anche in verticale (flexbox, non testo con
-   separatori "·" — serve per poter distribuire i 5 elementi sull'intera
-   larghezza del blocco). Bandiere reali invece di emoji: gli emoji
-   bandiera non si renderizzano su Windows/Segoe UI Emoji, che mostra solo
-   le due lettere del codice paese. */
+/* Selettore lingua: dropdown nativo invece della riga di bandiere
+   precedente — a 30 lingue (allineate a app/constants/languages.js
+   dell'app) una riga di bandiere non sta più in larghezza su mobile senza
+   overflow orizzontale (regola R4, CLAUDE.md) né senza forzare un a-capo
+   disordinato. Un <select> è già touch-friendly per costruzione, non
+   richiede bandiere (l'app stessa non le usa, solo codice+nome nativo) e
+   resta leggibile a qualunque numero di lingue. */
 .lang-switcher {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: center;
-  background: #f6f8fa;
+  margin: 0 0 28px;
+}
+
+.lang-select {
+  display: block;
+  width: 100%;
+  min-height: 48px;
+  font-size: 16px;
+  padding: 10px 14px;
   border: 1px solid #e1e4e8;
   border-radius: 8px;
-  padding: 16px 20px;
-  margin: 0 0 28px;
-  gap: 12px 18px;
-}
-
-.lang-item {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 18px;
-  line-height: 1.3;
-  white-space: nowrap;
-}
-
-a.lang-item {
-  text-decoration: none;
-}
-
-a.lang-item:hover {
-  text-decoration: underline;
-}
-
-.lang-current {
-  font-weight: 700;
-}
-
-.lang-switcher .flag-icon {
-  width: 26px;
-  height: 20px;
-  flex-shrink: 0;
-  border-radius: 3px;
-  box-shadow: 0 0 0 1px rgba(27, 31, 35, 0.15);
-}
-
-/* Mobile: la barra resta piena larghezza e centrata, il testo si riduce
-   leggermente e gli elementi vanno a capo in modo ordinato invece di
-   restringersi fino a diventare illeggibili o causare overflow orizzontale. */
-@media (max-width: 600px) {
-  .lang-switcher {
-    justify-content: center;
-    padding: 14px 16px;
-    gap: 10px 16px;
-  }
-
-  .lang-item {
-    font-size: 16px;
-  }
+  background: #f6f8fa;
+  color: #1b1f23;
+  appearance: auto;
 }

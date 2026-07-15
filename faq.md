@@ -38,6 +38,6 @@ It's meant to let you see real results on your own catalog before committing to 
 Yes — up to 500 generations a month, shared across the feature even on the Unlimited plan. This keeps the feature sustainable at the current price; if you're a high-volume catalog that needs more, get in touch.
 
 **I found a bug or something looks wrong. Who do I tell?**
-Email [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com) with what you saw and, if you can, which product or page — that's usually enough to track it down quickly.
+Email [info@ifgecommerce.com](mailto:info@ifgecommerce.com) with what you saw and, if you can, which product or page — that's usually enough to track it down quickly.
 
 [← Back to Help Center](index.html)

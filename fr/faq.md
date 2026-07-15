@@ -40,4 +40,4 @@ Elle est conçue pour vous permettre de voir des résultats concrets sur votre p
 Oui — jusqu'à 500 générations par mois, partagées pour cette fonctionnalité même sur l'offre Unlimited. Cela permet de garder la fonctionnalité viable au prix actuel ; si vous avez un catalogue à fort volume nécessitant davantage, contactez-nous.
 
 **J'ai trouvé un bug ou quelque chose semble incorrect. À qui le signaler ?**
-Écrivez à [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com) en décrivant ce que vous avez constaté et, si possible, quel produit ou quelle page est concerné — c'est généralement suffisant pour identifier rapidement le problème.
+Écrivez à [info@ifgecommerce.com](mailto:info@ifgecommerce.com) en décrivant ce que vous avez constaté et, si possible, quel produit ou quelle page est concerné — c'est généralement suffisant pour identifier rapidement le problème.

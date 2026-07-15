@@ -22,7 +22,7 @@ The data controller for personal data processed through **IFG GEO Optimizer** is
 
 **IFG eCommerce**
 Based in Rome, Italy
-Email: [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com)
+Email: [info@ifgecommerce.com](mailto:info@ifgecommerce.com)
 
 ## 2. What We Collect
 
@@ -70,6 +70,6 @@ We may update this policy from time to time. Material changes will be reflected 
 ---
 
 **Questions about your data?**
-[ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com)
+[info@ifgecommerce.com](mailto:info@ifgecommerce.com)
 
 [← Back to Help Center](index.html)

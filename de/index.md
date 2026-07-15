@@ -26,7 +26,7 @@ Diese Seite enthält alles, was Sie brauchen — egal ob Sie die App nutzen, eva
 
 ## Support
 
-Etwas nicht gefunden? Schreiben Sie an [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com) — eine echte Person liest jede Nachricht, in der Regel innerhalb eines Werktags.
+Etwas nicht gefunden? Schreiben Sie an [info@ifgecommerce.com](mailto:info@ifgecommerce.com) — eine echte Person liest jede Nachricht, in der Regel innerhalb eines Werktags.
 
 ---
 

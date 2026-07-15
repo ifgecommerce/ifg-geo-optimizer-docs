@@ -26,7 +26,7 @@ Este sitio tiene todo lo que necesitas, ya sea que estés usando la app, evaluá
 
 ## Soporte
 
-¿No encuentras lo que buscas? Escribe a [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com) — una persona real lee cada mensaje, normalmente en menos de un día laborable.
+¿No encuentras lo que buscas? Escribe a [info@ifgecommerce.com](mailto:info@ifgecommerce.com) — una persona real lee cada mensaje, normalmente en menos de un día laborable.
 
 ---
 

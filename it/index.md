@@ -26,7 +26,7 @@ Questo sito contiene tutto quello che serve, che tu stia usando l'app, valutando
 
 ## Assistenza
 
-Non hai trovato quello che cercavi? Scrivi a [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com) — una persona vera legge ogni messaggio, di solito entro un giorno lavorativo.
+Non hai trovato quello che cercavi? Scrivi a [info@ifgecommerce.com](mailto:info@ifgecommerce.com) — una persona vera legge ogni messaggio, di solito entro un giorno lavorativo.
 
 ---
 

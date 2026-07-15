@@ -38,6 +38,6 @@ Serve a farti vedere risultati reali sul tuo catalogo prima di passare a un pian
 Sì — fino a 500 generazioni al mese, condivise sulla funzionalità anche sul piano Unlimited. Questo mantiene la funzionalità sostenibile al prezzo attuale; se hai un catalogo ad alto volume e ti serve di più, contattaci.
 
 **Ho trovato un bug o qualcosa non sembra funzionare bene. A chi lo segnalo?**
-Scrivi a [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com) descrivendo cosa hai visto e, se puoi, quale prodotto o pagina era coinvolta — di solito è sufficiente per individuare rapidamente il problema.
+Scrivi a [info@ifgecommerce.com](mailto:info@ifgecommerce.com) descrivendo cosa hai visto e, se puoi, quale prodotto o pagina era coinvolta — di solito è sufficiente per individuare rapidamente il problema.
 
 [← Torna al Centro Assistenza](index.html)

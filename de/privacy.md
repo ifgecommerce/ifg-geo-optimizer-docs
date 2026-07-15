@@ -22,7 +22,7 @@ Verantwortlicher für die im Rahmen von **IFG GEO Optimizer** verarbeiteten pers
 
 **IFG eCommerce**
 Mit Sitz in Rom, Italien
-E-Mail: [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com)
+E-Mail: [info@ifgecommerce.com](mailto:info@ifgecommerce.com)
 
 ## 2. Welche Daten wir erfassen
 
@@ -70,6 +70,6 @@ Wir können diese Richtlinie von Zeit zu Zeit aktualisieren. Wesentliche Änderu
 ---
 
 **Fragen zu Ihren Daten?**
-[ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com)
+[info@ifgecommerce.com](mailto:info@ifgecommerce.com)
 
 [← Zurück zum Hilfe-Center](index.html)

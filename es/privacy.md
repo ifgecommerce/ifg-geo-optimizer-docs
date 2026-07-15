@@ -22,7 +22,7 @@ El responsable del tratamiento de los datos personales procesados a través de *
 
 **IFG eCommerce**
 Con sede en Roma, Italia
-Correo electrónico: [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com)
+Correo electrónico: [info@ifgecommerce.com](mailto:info@ifgecommerce.com)
 
 ## 2. Qué recopilamos
 
@@ -70,6 +70,6 @@ Podemos actualizar esta política de vez en cuando. Los cambios sustanciales se 
 ---
 
 **¿Preguntas sobre tus datos?**
-[ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com)
+[info@ifgecommerce.com](mailto:info@ifgecommerce.com)
 
 [← Volver al Centro de ayuda](index.html)

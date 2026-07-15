@@ -22,7 +22,7 @@ Il titolare del trattamento dei dati personali processati tramite **IFG GEO Opti
 
 **IFG eCommerce**
 Con sede a Roma, Italia
-Email: [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com)
+Email: [info@ifgecommerce.com](mailto:info@ifgecommerce.com)
 
 ## 2. Cosa raccogliamo
 
@@ -70,6 +70,6 @@ Potremmo aggiornare questa policy di tanto in tanto. Le modifiche sostanziali sa
 ---
 
 **Domande sui tuoi dati?**
-[ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com)
+[info@ifgecommerce.com](mailto:info@ifgecommerce.com)
 
 [← Torna al Centro Assistenza](index.html)

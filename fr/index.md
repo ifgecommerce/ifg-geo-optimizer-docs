@@ -26,7 +26,7 @@ Ce site contient tout ce dont vous avez besoin, que vous utilisiez l'application
 
 ## Assistance
 
-Vous ne trouvez pas ce que vous cherchez ? Écrivez à [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com) — une vraie personne lit chaque message, généralement sous un jour ouvré.
+Vous ne trouvez pas ce que vous cherchez ? Écrivez à [info@ifgecommerce.com](mailto:info@ifgecommerce.com) — une vraie personne lit chaque message, généralement sous un jour ouvré.
 
 ---
 

@@ -26,7 +26,7 @@ This site has everything you need whether you're using the app, evaluating it, o
 
 ## Support
 
-Something not covered here? Email [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com) — a real person reads every message, usually within one business day.
+Something not covered here? Email [info@ifgecommerce.com](mailto:info@ifgecommerce.com) — a real person reads every message, usually within one business day.
 
 ---
 

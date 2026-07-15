@@ -38,6 +38,6 @@ So können Sie echte Ergebnisse an Ihrem eigenen Katalog sehen, bevor Sie sich f
 Ja — bis zu 500 Generierungen pro Monat, geteilt über die Funktion hinweg, auch im Unlimited-Plan. Das hält die Funktion beim aktuellen Preis nachhaltig; wenn Sie einen sehr großen Katalog haben und mehr benötigen, kontaktieren Sie uns.
 
 **Ich habe einen Fehler gefunden oder etwas sieht falsch aus. Wem sage ich das?**
-Schreiben Sie an [ifgecommerce@gmail.com](mailto:ifgecommerce@gmail.com) mit einer Beschreibung dessen, was Sie gesehen haben, und wenn möglich, welches Produkt oder welche Seite betroffen ist — das reicht meist aus, um die Ursache schnell zu finden.
+Schreiben Sie an [info@ifgecommerce.com](mailto:info@ifgecommerce.com) mit einer Beschreibung dessen, was Sie gesehen haben, und wenn möglich, welches Produkt oder welche Seite betroffen ist — das reicht meist aus, um die Ursache schnell zu finden.
 
 [← Zurück zum Hilfe-Center](index.html)

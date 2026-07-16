@@ -21,7 +21,7 @@ Billed in USD through Shopify Billing. Annual billing on Grow and Unlimited is r
 - Storefront FAQ block, all 30 interface languages
 - AI support chat, 1,000 messages/month
 
-## Grow — $9.99/month ($99.90/year)
+## Grow — $12.99/month ($129.90/year)
 
 Everything in Free, plus:
 
@@ -33,7 +33,7 @@ Everything in Free, plus:
 - AI visibility tracking (Claude, ChatGPT, Gemini, Perplexity), 5 tracked prompts
 - AI referral traffic tracking
 
-## Unlimited — $19.99/month ($199.90/year)
+## Unlimited — $24.99/month ($249.90/year)
 
 Everything in Grow, plus:
 

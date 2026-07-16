@@ -44,7 +44,7 @@ Yes. Go to **Pricing** inside the app and switch to Free at any time — it take
 | AI support chat | 1,000 messages/month | 1,000 messages/month | 1,000 messages/month |
 | Interface languages | All 30 | All 30 | All 30 |
 
-Monthly pricing: Free $0, Grow $9.99, Unlimited $19.99. Annual billing on Grow/Unlimited is roughly two months free compared to paying monthly.
+Monthly pricing: Free $0, Grow $12.99, Unlimited $24.99. Annual billing on Grow/Unlimited is roughly two months free compared to paying monthly.
 
 **Why does the Free plan only cover 20 products?**
 It's meant to let you see real results on your own catalog before committing to a paid plan. Grow and Unlimited remove that cap and keep a full history of past audits.

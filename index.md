@@ -28,6 +28,7 @@ See [Getting Started](getting-started.html) for the full walkthrough of every fe
 ## Guides
 
 - **[Getting Started](getting-started.html)** — install the app and run your first audit in a few minutes.
+- **[Pricing](pricing.html)** — what's included on Free, Grow, and Unlimited.
 - **[FAQ](faq.html)** — answers to the questions merchants ask most, including exact plan limits.
 - **[Changelog](changelog.html)** — what's shipped, in order.
 - **[Privacy Policy](privacy.html)** — what data we collect, why, and who we share it with.

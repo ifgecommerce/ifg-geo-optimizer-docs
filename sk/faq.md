@@ -17,7 +17,7 @@ Tradičné SEO optimalizuje pre vyhľadávače, ktoré zoraďujú a zobrazujú z
 Nie, žiadne osobné dáta zákazníkov. Oprávnenia aplikácie na Shopify sú `read_products`, `write_products`, `read_themes` a `write_pixels` — čítanie a vylepšovanie vášho katalógu, kontrola, či je embed témy aktívny, a aktivácia anonymného pixelu návštevnosti storefrontu (pozri nižšie). Nikdy nežiada objednávky ani záznamy zákazníkov. Úplný prehľad nájdete v [Zásadách ochrany osobných údajov](privacy.html).
 
 **Čo je pixel návštevnosti z AI referrerov a sleduje mojich zákazníkov?**
-V plánoch Grow a Unlimited malý Web Pixel zisťuje, kedy návšteva storefrontu prichádza zo známeho AI systému (cez referrer prehliadača) a hlási systém, stránku a časovú pečiatku — nič, čo by identifikovalo návštevníka, žiadne cookies, žiadne dáta o relácii. Funguje iba vtedy, ak návštevník už udelil súhlas s analytikou cez cookie lištu vášho obchodu (Shopify Customer Privacy API). Používa sa na zobrazenie dlaždice na Dashboarde („Návštevnosť z AI referrerov, posledných 7 dní") — doplnok k sledovaniu Visibility AI, ktoré vám povie, či ste spomínaní, ale nie, či táto zmienka niekoho poslala.
+V každom pláne malý Web Pixel zisťuje, kedy návšteva storefrontu prichádza zo známeho AI systému (cez referrer prehliadača) a hlási systém, stránku a časovú pečiatku — nič, čo by identifikovalo návštevníka, žiadne cookies, žiadne dáta o relácii. Funguje iba vtedy, ak návštevník už udelil súhlas s analytikou cez cookie lištu vášho obchodu (Shopify Customer Privacy API). Používa sa na zobrazenie dlaždice na Dashboarde („Návštevnosť z AI referrerov, posledných 7 dní") — doplnok k sledovaniu Visibility AI, ktoré vám povie, či ste spomínaní, ale nie, či táto zmienka niekoho poslala.
 
 **Čo presne zmení tlačidlo „Opraviť" pri audite katalógu?**
 Zapíše chýbajúce štruktúrované dáta schema.org do metapoľa produktu — napríklad technické parametre odvodené z existujúcich možností produktu. Nikdy sa nedotkne názvu produktu, popisu, obrázkov ani ceny a nikdy si nevymyslí dáta, ktoré nedokáže overiť: chýbajúci čiarový kód napríklad zostane chýbajúci, namiesto toho, aby bol odhadnutý.
@@ -41,7 +41,7 @@ Konfigurácia vášho obchodu, uložené audity, návrhy FAQ a prepísaného obs
 | Generovanie FAQ | Nie je súčasťou | 500/mesiac | 500/mesiac |
 | Prepísanie obsahu | Nie je súčasťou | 300/mesiac | 300/mesiac |
 | Visibility AI (sledované prompty) | Nie je súčasťou | 5 promptov | 15 promptov |
-| Pixel návštevnosti z AI referrerov | Nie je súčasťou | Zahrnuté | Zahrnuté |
+| Pixel návštevnosti z AI referrerov | Zahrnuté | Zahrnuté | Zahrnuté |
 | AI chat podpory | 1 000 správ/mesiac | 1 000 správ/mesiac | 1 000 správ/mesiac |
 | Jazyky rozhrania | Všetkých 30 | Všetkých 30 | Všetkých 30 |
 

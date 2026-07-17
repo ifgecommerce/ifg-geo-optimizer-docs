@@ -17,7 +17,7 @@ Perinteinen SEO optimoi hakukoneille, jotka sijoittavat ja listaavat linkkejä. 
 Ei henkilökohtaisia asiakastietoja. Sovelluksen Shopify-käyttöoikeudet ovat `read_products`, `write_products`, `read_themes` ja `write_pixels` — katalogin lukeminen ja parantaminen, teemalaajennuksen aktiivisuuden tarkistaminen sekä anonyymin verkkokauppaliikenteen pikselin aktivointi (katso alla). Se ei koskaan pyydä tilauksia tai asiakastietoja. Katso [Tietosuojakäytäntö](privacy.html) täydellistä erittelyä varten.
 
 **Mikä on tekoäly-ohjautuvan liikenteen pikseli, ja seuraako se asiakkaitani?**
-Grow- ja Unlimited-paketeissa pieni Web Pixel havaitsee, kun verkkokauppakäynti saapuu tunnetulta tekoälymoottorilta (selaimen referrerin kautta), ja raportoi moottorin, sivun ja aikaleiman — ei mitään, mikä tunnistaisi kävijän, ei evästeitä, ei istuntotietoja. Se toimii vain, jos kävijä on jo antanut analytiikkasuostumuksen kauppasi evästebannerin kautta (Shopifyn Customer Privacy API). Sitä käytetään näyttämään Dashboard-ruutu ("Tekoäly-ohjautuva liikenne, viimeiset 7 päivää") — Visibility AI -seurannan vastinpari, joka kertoo, mainitaanko sinua, mutta ei sitä, lähettikö se maininta ketään.
+Kaikissa paketeissa pieni Web Pixel havaitsee, kun verkkokauppakäynti saapuu tunnetulta tekoälymoottorilta (selaimen referrerin kautta), ja raportoi moottorin, sivun ja aikaleiman — ei mitään, mikä tunnistaisi kävijän, ei evästeitä, ei istuntotietoja. Se toimii vain, jos kävijä on jo antanut analytiikkasuostumuksen kauppasi evästebannerin kautta (Shopifyn Customer Privacy API). Sitä käytetään näyttämään Dashboard-ruutu ("Tekoäly-ohjautuva liikenne, viimeiset 7 päivää") — Visibility AI -seurannan vastinpari, joka kertoo, mainitaanko sinua, mutta ei sitä, lähettikö se maininta ketään.
 
 **Mitä katalogin auditoinnin "Fix"-painike oikeastaan muuttaa?**
 Se kirjoittaa puuttuvan schema.org-rakenteisen datan tuotteen metakenttään — asioita kuten teknisiä tietoja, jotka on johdettu olemassa olevista tuotevaihtoehdoistasi. Se ei koskaan koske tuotteesi otsikkoa, kuvausta, kuvia tai hintaa, eikä koskaan keksi dataa, jota se ei pysty vahvistamaan: puuttuva viivakoodi, esimerkiksi, pysyy puuttuvana sen sijaan, että se arvattaisiin.
@@ -41,7 +41,7 @@ Kyllä. Siirry **Pricing**-osioon sovelluksen sisällä ja vaihda Free-pakettiin
 | FAQ-generointi | Ei sisälly | 500/kk | 500/kk |
 | Sisällön uudelleenkirjoitus | Ei sisälly | 300/kk | 300/kk |
 | Visibility AI (seuratut kehotteet) | Ei sisälly | 5 kehotetta | 15 kehotetta |
-| Tekoäly-ohjautuvan liikenteen pikseli | Ei sisälly | Sisältyy | Sisältyy |
+| Tekoäly-ohjautuvan liikenteen pikseli | Sisältyy | Sisältyy | Sisältyy |
 | Tekoälytukichat | 1 000 viestiä/kk | 1 000 viestiä/kk | 1 000 viestiä/kk |
 | Käyttöliittymän kielet | Kaikki 30 | Kaikki 30 | Kaikki 30 |
 

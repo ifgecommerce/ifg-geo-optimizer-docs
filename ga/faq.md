@@ -17,7 +17,7 @@ Optamaíonn SEO traidisiúnta d'innill chuardaigh a rangaíonn agus a liostálan
 Ní théann, gan aon sonraí pearsanta custaiméara. Is iad ceadanna Shopify na haipe ná `read_products`, `write_products`, `read_themes`, agus `write_pixels` — do chatalóg a léamh agus a fheabhsú, seiceáil go bhfuil an leabú téama gníomhach, agus picteilín anaithnid trácht stórais a ghníomhachtú (féach thíos). Ní iarrann sé riamh orduithe ná taifid chustaiméirí. Féach an [Beartas Príobháideachais](privacy.html) le haghaidh an mhionchuntais iomláin.
 
 **Cad é picteilín an trácht atreoraithe AI, agus an rianaíonn sé mo chustaiméirí?**
-Ar Grow agus Unlimited, braitheann Web Pixel beag nuair a shroicheann cuairt ar an stór ó inneall AI aitheanta (trí atreorú an bhrabhsálaí) agus tuairiscíonn sé an t-inneall, an leathanach, agus stampa ama — gan rud ar bith a aithníonn an cuairteoir, gan fianáin, gan sonraí seisiúin. Ní ritheann sé ach amháin má tá toiliú anailísíochta tugtha cheana féin ag an gcuairteoir trí bhaner fianán do stórais (Customer Privacy API Shopify). Úsáidtear é chun tíl Phainéil a thaispeáint ("Trácht atreoraithe AI, 7 lá seo caite") — an comhpháirt le rianú Infheictheacht AI, a insíonn duit an luaitear thú ach ní an bhfuil an lua sin ag seoladh aon duine.
+Ar gach plean, braitheann Web Pixel beag nuair a shroicheann cuairt ar an stór ó inneall AI aitheanta (trí atreorú an bhrabhsálaí) agus tuairiscíonn sé an t-inneall, an leathanach, agus stampa ama — gan rud ar bith a aithníonn an cuairteoir, gan fianáin, gan sonraí seisiúin. Ní ritheann sé ach amháin má tá toiliú anailísíochta tugtha cheana féin ag an gcuairteoir trí bhaner fianán do stórais (Customer Privacy API Shopify). Úsáidtear é chun tíl Phainéil a thaispeáint ("Trácht atreoraithe AI, 7 lá seo caite") — an comhpháirt le rianú Infheictheacht AI, a insíonn duit an luaitear thú ach ní an bhfuil an lua sin ag seoladh aon duine.
 
 **Cad a athraíonn cnaipe "Deisigh" an iniúchta catalóige i ndáiríre?**
 Scríobhann sé sonraí struchtúrtha schema.org atá in easnamh chuig meiteaireimeáil táirge — rudaí ar nós sonraíochtaí teicniúla díorthaithe ó roghanna táirge atá agat cheana. Ní bhaineann sé riamh le teideal, cur síos, íomhánna, ná praghas do tháirge, agus ní chumann sé riamh sonraí nach féidir leis a fhíorú: fanann barrachód atá in easnamh, mar shampla, in easnamh in ionad é a thomhas.
@@ -41,7 +41,7 @@ Is féidir. Téigh chuig **Praghsáil** laistigh den aip agus athraigh go Free a
 | Giniúint FAQ | Gan a bheith san áireamh | 500/mí | 500/mí |
 | Athscríobh ábhair | Gan a bheith san áireamh | 300/mí | 300/mí |
 | Infheictheacht AI (leideanna rianaithe) | Gan a bheith san áireamh | 5 leid | 15 leid |
-| Picteilín trácht atreoraithe AI | Gan a bheith san áireamh | San áireamh | San áireamh |
+| Picteilín trácht atreoraithe AI | San áireamh | San áireamh | San áireamh |
 | Comhrá tacaíochta AI | 1,000 teachtaireacht/mí | 1,000 teachtaireacht/mí | 1,000 teachtaireacht/mí |
 | Teangacha comhéadain | Gach ceann de na 30 | Gach ceann de na 30 | Gach ceann de na 30 |
 

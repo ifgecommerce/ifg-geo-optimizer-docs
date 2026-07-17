@@ -17,7 +17,7 @@ Tradicinė SEO optimizuoja paieškos varikliams, kurie reitinguoja ir išvardija
 Ne, jokių asmeninių klientų duomenų. Programos Shopify leidimai yra `read_products`, `write_products`, `read_themes` ir `write_pixels` — katalogo skaitymas ir tobulinimas, temos priedo aktyvavimo patikrinimas ir anoniminio parduotuvės srauto pikselio aktyvavimas (žr. žemiau). Ji niekada neprašo užsakymų ar klientų įrašų. Visą išsamią informaciją žr. [Privatumo politikoje](privacy.html).
 
 **Kas yra AI nukreipiamo srauto pikselis, ir ar juo sekami mano klientai?**
-Grow ir Unlimited planuose mažas Web Pixel aptinka, kada apsilankymas parduotuvės vitrinoje atkeliauja iš žinomo AI variklio (per naršyklės referrer) ir praneša variklį, puslapį bei laiko žymą — nieko, kas identifikuotų lankytoją, jokių slapukų, jokių sesijos duomenų. Jis veikia tik jei lankytojas jau davė sutikimą analitikai per jūsų parduotuvės slapukų juostą (Shopify Customer Privacy API). Naudojamas Dashboard plytelei rodyti ("AI nukreipiamas srautas, pastarosios 7 dienos") — tai AI matomumo stebėjimo atitikmuo, kuris parodo, ar esate minimi, bet ne tai, ar tas paminėjimas ką nors atsiuntė.
+Visuose planuose mažas Web Pixel aptinka, kada apsilankymas parduotuvės vitrinoje atkeliauja iš žinomo AI variklio (per naršyklės referrer) ir praneša variklį, puslapį bei laiko žymą — nieko, kas identifikuotų lankytoją, jokių slapukų, jokių sesijos duomenų. Jis veikia tik jei lankytojas jau davė sutikimą analitikai per jūsų parduotuvės slapukų juostą (Shopify Customer Privacy API). Naudojamas Dashboard plytelei rodyti ("AI nukreipiamas srautas, pastarosios 7 dienos") — tai AI matomumo stebėjimo atitikmuo, kuris parodo, ar esate minimi, bet ne tai, ar tas paminėjimas ką nors atsiuntė.
 
 **Ką iš tikrųjų pakeičia mygtukas „Fix" katalogo audite?**
 Jis įrašo trūkstamus schema.org struktūrizuotus duomenis į produkto metalauką (metafield) — pavyzdžiui, technines specifikacijas, išvestas iš jau esamų produkto parinkčių. Jis niekada neliečia produkto pavadinimo, aprašymo, nuotraukų ar kainos, ir niekada nesugalvoja duomenų, kurių negali patikrinti: pavyzdžiui, trūkstamas brūkšninis kodas taip ir lieka trūkstamas, o ne spėjamas.
@@ -41,7 +41,7 @@ Taip. Eikite į **Pricing** programoje ir bet kada persijunkite į Free — tai 
 | DUK generavimas | Neįtraukta | 500/mėn. | 500/mėn. |
 | Turinio perrašymas | Neįtraukta | 300/mėn. | 300/mėn. |
 | Visibility AI (sekamos užklausos) | Neįtraukta | 5 užklausos | 15 užklausų |
-| AI nukreipiamo srauto pikselis | Neįtraukta | Įtraukta | Įtraukta |
+| AI nukreipiamo srauto pikselis | Įtraukta | Įtraukta | Įtraukta |
 | AI pagalbos pokalbis | 1,000 žinučių/mėn. | 1,000 žinučių/mėn. | 1,000 žinučių/mėn. |
 | Sąsajos kalbos | Visos 30 | Visos 30 | Visos 30 |
 

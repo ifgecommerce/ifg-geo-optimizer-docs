@@ -16,7 +16,7 @@ Traditional SEO optimizes for search engines that rank and list links. GEO (Gene
 No personal customer data. The app's Shopify permissions are `read_products`, `write_products`, `read_themes`, and `write_pixels` — reading and improving your catalog, checking the theme embed is active, and activating an anonymous storefront-traffic pixel (see below). It never requests orders or customer records. See the [Privacy Policy](privacy.html) for the full breakdown.
 
 **What is the AI referral traffic pixel, and does it track my customers?**
-On Grow and Unlimited, a small Web Pixel detects when a storefront visit arrives from a known AI engine (via the browser referrer) and reports the engine, the page, and a timestamp — nothing that identifies the visitor, no cookies, no session data. It only runs if the visitor has already given analytics consent through your store's cookie banner (Shopify's Customer Privacy API). It's used to show a Dashboard tile ("AI referral traffic, last 7 days") — the counterpart to the Visibility AI tracking, which tells you if you're mentioned but not whether that mention sent anyone.
+On every plan, a small Web Pixel detects when a storefront visit arrives from a known AI engine (via the browser referrer) and reports the engine, the page, and a timestamp — nothing that identifies the visitor, no cookies, no session data. It only runs if the visitor has already given analytics consent through your store's cookie banner (Shopify's Customer Privacy API). It's used to show a Dashboard tile ("AI referral traffic, last 7 days") — the counterpart to the Visibility AI tracking, which tells you if you're mentioned but not whether that mention sent anyone.
 
 **What does the "Fix" button on the catalog audit actually change?**
 It writes missing schema.org structured data to a product metafield — things like technical specifications derived from your existing product options. It never touches your product title, description, images, or price, and it never invents data it can't verify: a missing barcode, for example, stays missing rather than being guessed.
@@ -40,7 +40,7 @@ Yes. Go to **Pricing** inside the app and switch to Free at any time — it take
 | FAQ generation | Not included | 500/month | 500/month |
 | Content rewrite | Not included | 300/month | 300/month |
 | Visibility AI (tracked prompts) | Not included | 5 prompts | 15 prompts |
-| AI referral traffic pixel | Not included | Included | Included |
+| AI referral traffic pixel | Included | Included | Included |
 | AI support chat | 1,000 messages/month | 1,000 messages/month | 1,000 messages/month |
 | Interface languages | All 30 | All 30 | All 30 |
 

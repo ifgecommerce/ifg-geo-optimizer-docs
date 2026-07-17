@@ -17,7 +17,7 @@ El SEO tradicional optimiza para motores de búsqueda que clasifican y listan en
 No, a ningún dato personal de clientes. Los permisos de Shopify de la app son `read_products`, `write_products`, `read_themes` y `write_pixels` — para leer y mejorar tu catálogo, comprobar que el bloque de tema está activo, y activar un pixel anónimo de tráfico de la tienda (ver más abajo). Nunca solicita acceso a pedidos ni a fichas de clientes. Consulta la [Política de privacidad](privacy.html) para el detalle completo.
 
 **¿Qué es el pixel de tráfico de referencia de IA, y hace seguimiento de mis clientes?**
-En Grow y Unlimited, un pequeño Web Pixel detecta cuándo una visita a la tienda llega desde un motor de IA reconocido (a través del referrer del navegador) e informa del motor, la página y una marca de tiempo — nada que identifique al visitante, sin cookies, sin datos de sesión. Solo se ejecuta si el visitante ya ha dado su consentimiento de analítica a través del banner de cookies de tu tienda (Customer Privacy API de Shopify). Se usa para mostrar un panel en el Dashboard ("Tráfico de referencia de IA, últimos 7 días") — el complemento del seguimiento de Visibility AI, que te dice si te mencionan pero no si esa mención envió a alguien.
+En todos los planes, un pequeño Web Pixel detecta cuándo una visita a la tienda llega desde un motor de IA reconocido (a través del referrer del navegador) e informa del motor, la página y una marca de tiempo — nada que identifique al visitante, sin cookies, sin datos de sesión. Solo se ejecuta si el visitante ya ha dado su consentimiento de analítica a través del banner de cookies de tu tienda (Customer Privacy API de Shopify). Se usa para mostrar un panel en el Dashboard ("Tráfico de referencia de IA, últimos 7 días") — el complemento del seguimiento de Visibility AI, que te dice si te mencionan pero no si esa mención envió a alguien.
 
 **¿Qué cambia realmente el botón "Corregir" del audit del catálogo?**
 Escribe los datos estructurados schema.org que faltan en un metafield del producto — cosas como especificaciones técnicas derivadas de las opciones de producto ya existentes. Nunca toca el título, la descripción, las imágenes ni el precio de tu producto, y nunca inventa datos que no puede verificar: un código de barras que falta, por ejemplo, sigue faltando en lugar de ser adivinado.
@@ -41,7 +41,7 @@ Sí. Ve a **Precios** dentro de la app y cambia a Free en cualquier momento — 
 | Generación de FAQ | No incluido | 500/mes | 500/mes |
 | Reescritura de contenido | No incluido | 300/mes | 300/mes |
 | Visibility AI (prompts monitorizados) | No incluido | 5 prompts | 15 prompts |
-| Pixel de tráfico de referencia de IA | No incluido | Incluido | Incluido |
+| Pixel de tráfico de referencia de IA | Incluido | Incluido | Incluido |
 | Chat de soporte con IA | 1,000 mensajes/mes | 1,000 mensajes/mes | 1,000 mensajes/mes |
 | Idiomas de la interfaz | Los 30 | Los 30 | Los 30 |
 

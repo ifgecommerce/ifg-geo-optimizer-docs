@@ -19,6 +19,7 @@ Billed in USD through Shopify Billing. Annual billing on Grow and Unlimited is r
 - Organization schema, `llms.txt`, `agents.md` — no limit
 - Content chunking score — no limit
 - Storefront FAQ block, all 30 interface languages
+- AI referral traffic tracking
 - AI support chat, 1,000 messages/month
 
 ## Grow — $12.99/month ($129.90/year)
@@ -31,7 +32,6 @@ Everything in Free, plus:
 - AI FAQ generation, 500/month
 - AI content rewriting for GEO, 300/month
 - AI visibility tracking (Claude, ChatGPT, Gemini, Perplexity), 5 tracked prompts
-- AI referral traffic tracking
 
 ## Unlimited — $24.99/month ($249.90/year)
 

@@ -17,7 +17,7 @@ Le SEO traditionnel optimise pour les moteurs de recherche qui classent et liste
 Aucune donnée personnelle de client. Les permissions Shopify de l'application sont `read_products`, `write_products`, `read_themes` et `write_pixels` — pour lire et améliorer votre catalogue, vérifier que le bloc de thème est actif, et activer un pixel anonyme de trafic de la boutique en ligne (voir ci-dessous). Elle ne demande jamais l'accès aux commandes ou aux fiches clients. Consultez la [Politique de confidentialité](privacy.html) pour le détail complet.
 
 **Qu'est-ce que le pixel de trafic de référencement IA, et suit-il mes clients ?**
-Sur Grow et Unlimited, un petit Web Pixel détecte quand une visite de la boutique en ligne arrive depuis un moteur IA reconnu (via le référent du navigateur) et indique le moteur, la page et un horodatage — rien qui identifie le visiteur, aucun cookie, aucune donnée de session. Il ne s'exécute que si le visiteur a déjà donné son consentement analytique via la bannière de cookies de votre boutique (Customer Privacy API de Shopify). Il alimente une tuile du tableau de bord (« Trafic de référencement IA, 7 derniers jours ») — le pendant du suivi Visibility AI, qui vous indique si vous êtes mentionné mais pas si cette mention a envoyé quelqu'un.
+Sur toutes les offres, un petit Web Pixel détecte quand une visite de la boutique en ligne arrive depuis un moteur IA reconnu (via le référent du navigateur) et indique le moteur, la page et un horodatage — rien qui identifie le visiteur, aucun cookie, aucune donnée de session. Il ne s'exécute que si le visiteur a déjà donné son consentement analytique via la bannière de cookies de votre boutique (Customer Privacy API de Shopify). Il alimente une tuile du tableau de bord (« Trafic de référencement IA, 7 derniers jours ») — le pendant du suivi Visibility AI, qui vous indique si vous êtes mentionné mais pas si cette mention a envoyé quelqu'un.
 
 **Que change réellement le bouton « Corriger » de l'audit du catalogue ?**
 Il écrit les données structurées schema.org manquantes dans un metafield du produit — des éléments comme les spécifications techniques dérivées de vos options de produit existantes. Il ne touche jamais au titre, à la description, aux images ou au prix de votre produit, et il n'invente jamais de donnée qu'il ne peut pas vérifier : un code-barres manquant, par exemple, reste manquant plutôt que d'être deviné.
@@ -41,7 +41,7 @@ Oui. Allez dans **Tarifs** dans l'application et passez à l'offre Free à tout 
 | Génération de FAQ | Non inclus | 500/mois | 500/mois |
 | Réécriture de contenu | Non inclus | 300/mois | 300/mois |
 | Visibility AI (questions suivies) | Non inclus | 5 questions | 15 questions |
-| Pixel de trafic de référencement IA | Non inclus | Inclus | Inclus |
+| Pixel de trafic de référencement IA | Inclus | Inclus | Inclus |
 | Chat d'assistance IA | 1 000 messages/mois | 1 000 messages/mois | 1 000 messages/mois |
 | Langues de l'interface | Les 30 | Les 30 | Les 30 |
 

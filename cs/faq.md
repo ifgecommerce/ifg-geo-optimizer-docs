@@ -17,7 +17,7 @@ Tradiční SEO optimalizuje pro vyhledávače, které řadí a vypisují odkazy.
 Ne, žádná osobní data zákazníků. Oprávnění aplikace na Shopify jsou `read_products`, `write_products`, `read_themes` a `write_pixels` — čtení a vylepšování vašeho katalogu, kontrola, že je embed šablony aktivní, a aktivace anonymního pixelu návštěvnosti storefrontu (viz níže). Nikdy nežádá o objednávky ani záznamy zákazníků. Kompletní přehled najdete v [Zásadách ochrany osobních údajů](privacy.html).
 
 **Co je pixel návštěvnosti z AI odkazů a sleduje mé zákazníky?**
-Na Grow a Unlimited malý Web Pixel detekuje, když návštěva storefrontu přichází ze známého AI enginu (přes referrer prohlížeče), a hlásí engine, stránku a časové razítko — nic, co by identifikovalo návštěvníka, žádné cookies, žádná data o relaci. Spouští se jen tehdy, pokud návštěvník už udělil souhlas s analytikou přes cookie lištu vašeho obchodu (Shopify Customer Privacy API). Používá se k zobrazení dlaždice na Dashboardu („Návštěvnost z AI odkazů, posledních 7 dní") — protějšek ke sledování Visibility AI, které vám řekne, jestli jste zmiňováni, ale ne jestli ta zmínka někoho poslala.
+Na každém plánu malý Web Pixel detekuje, když návštěva storefrontu přichází ze známého AI enginu (přes referrer prohlížeče), a hlásí engine, stránku a časové razítko — nic, co by identifikovalo návštěvníka, žádné cookies, žádná data o relaci. Spouští se jen tehdy, pokud návštěvník už udělil souhlas s analytikou přes cookie lištu vašeho obchodu (Shopify Customer Privacy API). Používá se k zobrazení dlaždice na Dashboardu („Návštěvnost z AI odkazů, posledních 7 dní") — protějšek ke sledování Visibility AI, které vám řekne, jestli jste zmiňováni, ale ne jestli ta zmínka někoho poslala.
 
 **Co přesně mění tlačítko „Fix" u auditu katalogu?**
 Zapisuje chybějící strukturovaná data schema.org do metapole produktu — například technické specifikace odvozené z existujících možností produktu. Nikdy se nedotkne názvu produktu, popisu, obrázků ani ceny a nikdy nevymýšlí data, která nedokáže ověřit: chybějící čárový kód například zůstane chybějící, místo aby byl odhadnut.
@@ -41,7 +41,7 @@ Ano. Jděte v aplikaci na **Pricing** a kdykoliv přepněte na Free — projeví
 | Generování FAQ | Není součástí | 500/měsíc | 500/měsíc |
 | Přepis obsahu | Není součástí | 300/měsíc | 300/měsíc |
 | Visibility AI (sledované prompty) | Není součástí | 5 promptů | 15 promptů |
-| Pixel návštěvnosti z AI odkazů | Není součástí | Součástí | Součástí |
+| Pixel návštěvnosti z AI odkazů | Součástí | Součástí | Součástí |
 | AI chat podpory | 1 000 zpráv/měsíc | 1 000 zpráv/měsíc | 1 000 zpráv/měsíc |
 | Jazyky rozhraní | Všech 30 | Všech 30 | Všech 30 |
 

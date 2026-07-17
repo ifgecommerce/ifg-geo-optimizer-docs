@@ -17,7 +17,7 @@ Tradycyjne SEO optymalizuje pod wyszukiwarki, które rankingują i wyświetlają
 Nie, żadne dane osobowe klientów. Uprawnienia Shopify aplikacji to `read_products`, `write_products`, `read_themes` i `write_pixels` — odczyt i ulepszanie katalogu, sprawdzanie, czy osadzenie motywu jest aktywne, oraz aktywacja anonimowego pixela ruchu sklepu (patrz niżej). Aplikacja nigdy nie prosi o zamówienia ani dane klientów. Pełny opis znajdziesz w [Polityce prywatności](privacy.html).
 
 **Czym jest pixel ruchu polecanego przez AI i czy śledzi moich klientów?**
-W planach Grow i Unlimited niewielki Web Pixel wykrywa, kiedy odwiedziny sklepu pochodzą ze znanego silnika AI (poprzez referrer przeglądarki) i raportuje silnik, stronę oraz znacznik czasu — nic, co identyfikowałoby odwiedzającego, żadnych ciasteczek, żadnych danych sesji. Działa wyłącznie wtedy, gdy odwiedzający wyraził już zgodę na analitykę przez baner cookie Twojego sklepu (Customer Privacy API Shopify). Służy do wyświetlania kafelka na Dashboardzie („Ruch polecany przez AI, ostatnie 7 dni") — uzupełnienie śledzenia Widoczności AI, które mówi, czy jesteś wspominany, ale nie mówi, czy ta wzmianka kogoś do Ciebie wysyła.
+W każdym planie niewielki Web Pixel wykrywa, kiedy odwiedziny sklepu pochodzą ze znanego silnika AI (poprzez referrer przeglądarki) i raportuje silnik, stronę oraz znacznik czasu — nic, co identyfikowałoby odwiedzającego, żadnych ciasteczek, żadnych danych sesji. Działa wyłącznie wtedy, gdy odwiedzający wyraził już zgodę na analitykę przez baner cookie Twojego sklepu (Customer Privacy API Shopify). Służy do wyświetlania kafelka na Dashboardzie („Ruch polecany przez AI, ostatnie 7 dni") — uzupełnienie śledzenia Widoczności AI, które mówi, czy jesteś wspominany, ale nie mówi, czy ta wzmianka kogoś do Ciebie wysyła.
 
 **Co dokładnie zmienia przycisk „Napraw" w audycie katalogu?**
 Zapisuje brakujące dane strukturalne schema.org w metapolu produktu — na przykład specyfikacje techniczne wyprowadzone z istniejących już opcji produktu. Nigdy nie dotyka tytułu, opisu, zdjęć ani ceny produktu i nigdy nie wymyśla danych, których nie może zweryfikować: brakujący kod kreskowy, na przykład, pozostaje brakujący zamiast być zgadywany.
@@ -41,7 +41,7 @@ Tak. Wejdź w **Cennik** wewnątrz aplikacji i przełącz się na Free w dowolny
 | Generowanie FAQ | Niedostępne | 500/miesiąc | 500/miesiąc |
 | Przepisywanie treści | Niedostępne | 300/miesiąc | 300/miesiąc |
 | Widoczność AI (monitorowane zapytania) | Niedostępne | 5 zapytań | 15 zapytań |
-| Pixel ruchu polecanego przez AI | Niedostępne | Wliczone | Wliczone |
+| Pixel ruchu polecanego przez AI | Wliczone | Wliczone | Wliczone |
 | Czat wsparcia AI | 1000 wiadomości/miesiąc | 1000 wiadomości/miesiąc | 1000 wiadomości/miesiąc |
 | Języki interfejsu | Wszystkie 30 | Wszystkie 30 | Wszystkie 30 |
 

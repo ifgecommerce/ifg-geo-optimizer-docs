@@ -17,7 +17,7 @@ Is-SEO tradizzjonali jottimizza għal magni tat-tiftix li jikklassifikaw u jelen
 Ebda dejta personali tal-klijenti. Il-permessi Shopify tal-app huma `read_products`, `write_products`, `read_themes`, u `write_pixels` — biex taqra u ttejjeb il-katalgu tiegħek, tivverifika li l-embed tat-tema huwa attiv, u tattiva pixel anonimu tat-traffiku storefront (ara hawn taħt). Qatt ma titlob ordnijiet jew rekords tal-klijenti. Ara l-[Politika tal-Privatezza](privacy.html) għad-dettall sħiħ.
 
 **X'inhu l-pixel tat-traffiku ta' referral mill-AI, u jittraċċja lill-klijenti tiegħi?**
-Fuq Grow u Unlimited, Web Pixel żgħir jinnota meta żjara lill-ħanut tasal minn magna AI magħrufa (permezz tar-referrer tal-browser) u jirrapporta l-magna, il-paġna, u timestamp — xejn li jidentifika ż-żaġġaġ, l-ebda cookie, l-ebda dejta tas-sessjoni. Jaħdem biss jekk iż-żaġġaġ ikun diġà ta l-kunsens tal-analitika permezz tal-banner tal-cookies tal-ħanut tiegħek (Customer Privacy API ta' Shopify). Jintuża biex juri tile fid-Dashboard ("Traffiku ta' referral mill-AI, l-aħħar 7 ijiem") — il-parti l-oħra tat-traċċar tal-Viżibbiltà AI, li jgħidlek jekk intix imsemmi imma mhux jekk dik il-msemmija bagħtitlek lil xi ħadd.
+Fuq kull pjan, Web Pixel żgħir jinnota meta żjara lill-ħanut tasal minn magna AI magħrufa (permezz tar-referrer tal-browser) u jirrapporta l-magna, il-paġna, u timestamp — xejn li jidentifika ż-żaġġaġ, l-ebda cookie, l-ebda dejta tas-sessjoni. Jaħdem biss jekk iż-żaġġaġ ikun diġà ta l-kunsens tal-analitika permezz tal-banner tal-cookies tal-ħanut tiegħek (Customer Privacy API ta' Shopify). Jintuża biex juri tile fid-Dashboard ("Traffiku ta' referral mill-AI, l-aħħar 7 ijiem") — il-parti l-oħra tat-traċċar tal-Viżibbiltà AI, li jgħidlek jekk intix imsemmi imma mhux jekk dik il-msemmija bagħtitlek lil xi ħadd.
 
 **X'jibdel verament il-buttuna "Sewwi" fil-verifika tal-katalgu?**
 Tikteb dejta strutturata schema.org nieqsa f'metafield tal-prodott — affarijiet bħal speċifikazzjonijiet tekniċi derivati mill-għażliet eżistenti tal-prodott tiegħek. Qatt ma tmiss it-titlu, id-deskrizzjoni, ir-ritratti, jew il-prezz tal-prodott tiegħek, u qatt ma tivvinta dejta li ma tistax tivverifika: barcode nieqes, pereżempju, jibqa' nieqes minflok ma jiġi ssupponut.
@@ -41,7 +41,7 @@ Iva. Mur fuq **Prezzijiet** ġewwa l-app u aqleb għal Free fi kwalunkwe ħin �
 | Ġenerazzjoni FAQ | Mhux inkluż | 500/xahar | 500/xahar |
 | Kitba mill-ġdid tal-kontenut | Mhux inkluż | 300/xahar | 300/xahar |
 | Viżibbiltà AI (prompts imsegwija) | Mhux inkluż | 5 prompts | 15 prompts |
-| Pixel tat-traffiku ta' referral mill-AI | Mhux inkluż | Inkluż | Inkluż |
+| Pixel tat-traffiku ta' referral mill-AI | Inkluż | Inkluż | Inkluż |
 | Chat ta' appoġġ AI | 1,000 messaġġ/xahar | 1,000 messaġġ/xahar | 1,000 messaġġ/xahar |
 | Lingwi tal-interfaċċja | It-30 kollha | It-30 kollha | It-30 kollha |
 

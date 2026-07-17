@@ -17,7 +17,7 @@ Traditsiooniline SEO optimeerib otsingumootoreid, mis pingerida ja loetlevad lin
 Ei, mitte mingeid isikuandmeid klientide kohta. Rakenduse Shopify õigused on `read_products`, `write_products`, `read_themes` ja `write_pixels` — sinu kataloogi lugemine ja parandamine, teema manuse aktiivsuse kontrollimine ning anonüümse poe liikluse piksli aktiveerimine (vaata allpool). See ei küsi kunagi tellimusi ega kliendiandmeid. Vaata täielikku ülevaadet [Privaatsuspoliitikast](privacy.html).
 
 **Mis on AI-suunatud liikluse piksel ja kas see jälgib minu kliente?**
-Grow ja Unlimited paketis tuvastab väike Web Pixel, kui poe külastus saabub teadaolevast AI mootorist (brauseri viitaja kaudu) ja raporteerib mootori, lehe ja ajatempli — mitte midagi, mis identifitseeriks külastajat, ei küpsiseid, ei seansiandmeid. See töötab ainult siis, kui külastaja on juba andnud analüütika nõusoleku sinu poe küpsisebänneri kaudu (Shopify Customer Privacy API). Seda kasutatakse Dashboardi kaardi ("AI-suunatud liiklus, viimased 7 päeva") näitamiseks — Visibility AI jälgimise vastandpool, mis ütleb, kas sind mainitakse, kuid mitte seda, kas see mainimine kellegi sinuni saatis.
+Igal paketil tuvastab väike Web Pixel, kui poe külastus saabub teadaolevast AI mootorist (brauseri viitaja kaudu) ja raporteerib mootori, lehe ja ajatempli — mitte midagi, mis identifitseeriks külastajat, ei küpsiseid, ei seansiandmeid. See töötab ainult siis, kui külastaja on juba andnud analüütika nõusoleku sinu poe küpsisebänneri kaudu (Shopify Customer Privacy API). Seda kasutatakse Dashboardi kaardi ("AI-suunatud liiklus, viimased 7 päeva") näitamiseks — Visibility AI jälgimise vastandpool, mis ütleb, kas sind mainitakse, kuid mitte seda, kas see mainimine kellegi sinuni saatis.
 
 **Mida "Fix" nupp kataloogi auditil tegelikult muudab?**
 See kirjutab puuduvad schema.org struktureeritud andmed toote metaväljale — asjad nagu tehnilised andmed, mis on tuletatud sinu olemasolevatest tootevalikutest. See ei puuduta kunagi sinu toote pealkirja, kirjeldust, pilte ega hinda ning ei mõtle kunagi välja andmeid, mida ei saa kontrollida: näiteks puuduv triipkood jääb puuduvaks, selle asemel et seda ära arvata.
@@ -41,7 +41,7 @@ Jah. Mine rakenduses **Pricing** alla ja lülitu igal ajal Free peale — see ra
 | KKK genereerimine | Ei sisaldu | 500/kuus | 500/kuus |
 | Sisu ümberkirjutamine | Ei sisaldu | 300/kuus | 300/kuus |
 | Visibility AI (jälgitavad päringud) | Ei sisaldu | 5 päringut | 15 päringut |
-| AI-suunatud liikluse piksel | Ei sisaldu | Sisaldub | Sisaldub |
+| AI-suunatud liikluse piksel | Sisaldub | Sisaldub | Sisaldub |
 | AI tugivestlus | 1,000 sõnumit/kuus | 1,000 sõnumit/kuus | 1,000 sõnumit/kuus |
 | Liidese keeled | Kõik 30 | Kõik 30 | Kõik 30 |
 

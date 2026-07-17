@@ -17,7 +17,7 @@ Tradicionalni SEO optimizira za tražilice koje rangiraju i prikazuju popise pov
 Ne, nikakve osobne podatke kupaca. Shopify dozvole aplikacije su `read_products`, `write_products`, `read_themes` i `write_pixels` — čitanje i poboljšavanje vašeg kataloga, provjera je li embed teme aktivan i aktivacija anonimnog piksela prometa trgovine (vidi niže). Nikada ne zahtijeva narudžbe ni evidencije kupaca. Pogledajte [Pravila privatnosti](privacy.html) za potpuni pregled.
 
 **Što je piksel AI referral prometa i prati li moje kupce?**
-Na planovima Grow i Unlimited, mali Web Pixel otkriva kada posjet trgovini stiže od poznatog AI motora (putem referrera preglednika) i izvještava o motoru, stranici i vremenskoj oznaci — ništa što identificira posjetitelja, bez kolačića, bez podataka o sesiji. Pokreće se samo ako je posjetitelj već dao pristanak za analitiku putem bannera kolačića vaše trgovine (Shopify Customer Privacy API). Koristi se za prikaz pločice na Dashboardu ("AI referral promet, posljednjih 7 dana") — protuteža praćenju Visibility AI, koje vam govori jeste li spomenuti, ali ne i je li to spominjanje nekoga poslalo.
+Na svakom planu, mali Web Pixel otkriva kada posjet trgovini stiže od poznatog AI motora (putem referrera preglednika) i izvještava o motoru, stranici i vremenskoj oznaci — ništa što identificira posjetitelja, bez kolačića, bez podataka o sesiji. Pokreće se samo ako je posjetitelj već dao pristanak za analitiku putem bannera kolačića vaše trgovine (Shopify Customer Privacy API). Koristi se za prikaz pločice na Dashboardu ("AI referral promet, posljednjih 7 dana") — protuteža praćenju Visibility AI, koje vam govori jeste li spomenuti, ali ne i je li to spominjanje nekoga poslalo.
 
 **Što točno mijenja gumb "Ispravi" u auditu kataloga?**
 Upisuje nedostajuće schema.org strukturirane podatke u metapolje (metafield) proizvoda — stvari poput tehničkih specifikacija izvedenih iz postojećih opcija proizvoda. Nikada ne dira naziv, opis, slike ili cijenu vašeg proizvoda, i nikada ne izmišlja podatke koje ne može provjeriti: nedostajući barkod, primjerice, ostaje nedostajući umjesto da se pogađa.
@@ -41,7 +41,7 @@ Da. Idite na **Cjenik** unutar aplikacije i prebacite se na Free u bilo kojem tr
 | Generiranje FAQ-a | Nije uključeno | 500/mjesec | 500/mjesec |
 | Prepisivanje sadržaja | Nije uključeno | 300/mjesec | 300/mjesec |
 | Visibility AI (praćeni upiti) | Nije uključeno | 5 upita | 15 upita |
-| Piksel AI referral prometa | Nije uključeno | Uključeno | Uključeno |
+| Piksel AI referral prometa | Uključeno | Uključeno | Uključeno |
 | AI chat podrška | 1.000 poruka/mjesec | 1.000 poruka/mjesec | 1.000 poruka/mjesec |
 | Jezici sučelja | Svih 30 | Svih 30 | Svih 30 |
 

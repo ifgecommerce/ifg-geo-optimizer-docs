@@ -17,7 +17,7 @@ SEO tradițional optimizează pentru motoare de căutare care clasează și list
 Nu, niciun fel de date personale ale clienților. Permisiunile Shopify ale aplicației sunt `read_products`, `write_products`, `read_themes` și `write_pixels` — citirea și îmbunătățirea catalogului tău, verificarea că embed-ul temei este activ și activarea unui pixel anonim de trafic pe magazinul vitrină (vezi mai jos). Nu solicită niciodată comenzi sau înregistrări ale clienților. Vezi [Politica de confidențialitate](privacy.html) pentru detalii complete.
 
 **Ce este pixelul de trafic de recomandare AI și îmi urmărește clienții?**
-Pe Grow și Unlimited, un mic Web Pixel detectează când o vizită pe magazinul vitrină ajunge de la un motor AI cunoscut (prin referrer-ul browserului) și raportează motorul, pagina și o marcă temporală — nimic care să identifice vizitatorul, fără cookie-uri, fără date de sesiune. Rulează doar dacă vizitatorul a acordat deja consimțământul de analiză prin bannerul de cookie-uri al magazinului tău (Customer Privacy API de la Shopify). Este folosit pentru a afișa o casetă în Dashboard („Trafic de recomandare AI, ultimele 7 zile") — completarea urmăririi Visibility AI, care îți spune dacă ești menționat, dar nu și dacă acea mențiune a trimis pe cineva.
+Pe fiecare plan, un mic Web Pixel detectează când o vizită pe magazinul vitrină ajunge de la un motor AI cunoscut (prin referrer-ul browserului) și raportează motorul, pagina și o marcă temporală — nimic care să identifice vizitatorul, fără cookie-uri, fără date de sesiune. Rulează doar dacă vizitatorul a acordat deja consimțământul de analiză prin bannerul de cookie-uri al magazinului tău (Customer Privacy API de la Shopify). Este folosit pentru a afișa o casetă în Dashboard („Trafic de recomandare AI, ultimele 7 zile") — completarea urmăririi Visibility AI, care îți spune dacă ești menționat, dar nu și dacă acea mențiune a trimis pe cineva.
 
 **Ce modifică efectiv butonul „Remediază" din auditul de catalog?**
 Scrie datele structurate schema.org lipsă într-un metafield al produsului — lucruri precum specificații tehnice derivate din opțiunile existente ale produsului. Nu atinge niciodată titlul, descrierea, imaginile sau prețul produsului tău și nu inventează niciodată date pe care nu le poate verifica: de exemplu, un cod de bare lipsă rămâne lipsă în loc să fie ghicit.
@@ -41,7 +41,7 @@ Da. Mergi la **Prețuri** în aplicație și comută la Free oricând — intră
 | Generare FAQ | Neinclus | 500/lună | 500/lună |
 | Rescriere conținut | Neinclus | 300/lună | 300/lună |
 | Visibility AI (prompt-uri urmărite) | Neinclus | 5 prompt-uri | 15 prompt-uri |
-| Pixel trafic de recomandare AI | Neinclus | Inclus | Inclus |
+| Pixel trafic de recomandare AI | Inclus | Inclus | Inclus |
 | Chat de asistență AI | 1.000 mesaje/lună | 1.000 mesaje/lună | 1.000 mesaje/lună |
 | Limbi de interfață | Toate cele 30 | Toate cele 30 | Toate cele 30 |
 

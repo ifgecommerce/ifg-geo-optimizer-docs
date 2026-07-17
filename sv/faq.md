@@ -17,7 +17,7 @@ Traditionell SEO optimerar för sökmotorer som rankar och listar länkar. GEO (
 Nej, ingen personlig kunddata. Appens Shopify-behörigheter är `read_products`, `write_products`, `read_themes` och `write_pixels` — att läsa och förbättra din katalog, kontrollera att temainbäddningen är aktiv, och aktivera en anonym pixel för butiksfrontstrafik (se nedan). Den begär aldrig ordrar eller kunduppgifter. Se [Integritetspolicyn](privacy.html) för hela genomgången.
 
 **Vad är AI-hänvisningstrafikpixeln, och spårar den mina kunder?**
-På Grow och Unlimited upptäcker en liten Web Pixel när ett besök i butiksfronten kommer från en känd AI-motor (via webbläsarens referrer) och rapporterar motorn, sidan och en tidsstämpel — inget som identifierar besökaren, inga cookies, ingen sessionsdata. Den körs bara om besökaren redan gett analyssamtycke via din butiks cookiebanner (Shopifys Customer Privacy API). Den används för att visa en Dashboard-ruta ("AI-hänvisningstrafik, senaste 7 dagarna") — motsvarigheten till Visibility AI-spårningen, som talar om ifall du nämns men inte om den nämningen skickade någon till dig.
+På alla planer upptäcker en liten Web Pixel när ett besök i butiksfronten kommer från en känd AI-motor (via webbläsarens referrer) och rapporterar motorn, sidan och en tidsstämpel — inget som identifierar besökaren, inga cookies, ingen sessionsdata. Den körs bara om besökaren redan gett analyssamtycke via din butiks cookiebanner (Shopifys Customer Privacy API). Den används för att visa en Dashboard-ruta ("AI-hänvisningstrafik, senaste 7 dagarna") — motsvarigheten till Visibility AI-spårningen, som talar om ifall du nämns men inte om den nämningen skickade någon till dig.
 
 **Vad ändrar egentligen "Fix"-knappen i katalogauditen?**
 Den skriver saknad schema.org-strukturerad data till ett produktmetafält — saker som tekniska specifikationer härledda från dina befintliga produktalternativ. Den rör aldrig din produkttitel, beskrivning, bilder eller pris, och den hittar aldrig på data den inte kan verifiera: en saknad streckkod, till exempel, förblir saknad istället för att gissas fram.
@@ -41,7 +41,7 @@ Ja. Gå till **Pricing** i appen och byt till Free när som helst — det träde
 | FAQ-generering | Ingår ej | 500/månad | 500/månad |
 | Omskrivning av innehåll | Ingår ej | 300/månad | 300/månad |
 | Visibility AI (spårade prompter) | Ingår ej | 5 prompter | 15 prompter |
-| AI-hänvisningstrafikpixel | Ingår ej | Ingår | Ingår |
+| AI-hänvisningstrafikpixel | Ingår | Ingår | Ingår |
 | AI-supportchatt | 1 000 meddelanden/månad | 1 000 meddelanden/månad | 1 000 meddelanden/månad |
 | Gränssnittsspråk | Alla 30 | Alla 30 | Alla 30 |
 

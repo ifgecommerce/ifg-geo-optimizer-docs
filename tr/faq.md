@@ -17,7 +17,7 @@ Geleneksel SEO, bağlantıları sıralayan ve listeleyen arama motorları için 
 Hayır, hiçbir kişisel müşteri verisi kullanılmaz. Uygulamanın Shopify izinleri `read_products`, `write_products`, `read_themes` ve `write_pixels`'tir — kataloğunuzu okumak ve iyileştirmek, tema eklentisinin etkin olduğunu kontrol etmek ve anonim bir mağaza vitrini trafiği pixel'ini etkinleştirmek (aşağıya bakın) içindir. Asla siparişleri veya müşteri kayıtlarını talep etmez. Tam ayrıntı için [Gizlilik Politikası](privacy.html)'na bakın.
 
 **Yapay zeka yönlendirme trafiği pixel'i nedir ve müşterilerimi takip ediyor mu?**
-Grow ve Unlimited'de küçük bir Web Pixel, bir mağaza vitrini ziyaretinin bilinen bir yapay zeka motorundan geldiğini (tarayıcı referrer'ı üzerinden) tespit eder ve motoru, sayfayı ve bir zaman damgasını raporlar — ziyaretçiyi tanımlayan hiçbir şey, çerez veya oturum verisi yoktur. Yalnızca ziyaretçi mağazanızın çerez banner'ı (Shopify'ın Customer Privacy API'si) aracılığıyla analiz izni verdiyse çalışır. Bir Dashboard kutucuğunu ("Yapay zeka yönlendirme trafiği, son 7 gün") göstermek için kullanılır — bahsedilip bahsedilmediğinizi söyleyen ama o bahsetmenin birini gönderip göndermediğini söylemeyen Visibility AI takibinin tamamlayıcısıdır.
+Her planda küçük bir Web Pixel, bir mağaza vitrini ziyaretinin bilinen bir yapay zeka motorundan geldiğini (tarayıcı referrer'ı üzerinden) tespit eder ve motoru, sayfayı ve bir zaman damgasını raporlar — ziyaretçiyi tanımlayan hiçbir şey, çerez veya oturum verisi yoktur. Yalnızca ziyaretçi mağazanızın çerez banner'ı (Shopify'ın Customer Privacy API'si) aracılığıyla analiz izni verdiyse çalışır. Bir Dashboard kutucuğunu ("Yapay zeka yönlendirme trafiği, son 7 gün") göstermek için kullanılır — bahsedilip bahsedilmediğinizi söyleyen ama o bahsetmenin birini gönderip göndermediğini söylemeyen Visibility AI takibinin tamamlayıcısıdır.
 
 **Katalog denetimindeki "Düzelt" düğmesi tam olarak neyi değiştirir?**
 Eksik schema.org yapılandırılmış verisini bir ürün metafield'ına yazar — mevcut ürün seçeneklerinizden türetilen teknik özellikler gibi şeyler. Ürün başlığınıza, açıklamanıza, görsellerinize veya fiyatınıza asla dokunmaz ve doğrulayamadığı veriyi asla uydurmaz: örneğin eksik bir barkod, tahmin edilmek yerine eksik kalır.
@@ -41,7 +41,7 @@ Evet. Uygulama içinde **Fiyatlandırma**'ya gidin ve istediğiniz zaman Free'ye
 | SSS oluşturma | Dahil değil | 500/ay | 500/ay |
 | İçerik yeniden yazma | Dahil değil | 300/ay | 300/ay |
 | Visibility AI (takip edilen istemler) | Dahil değil | 5 istem | 15 istem |
-| Yapay zeka yönlendirme trafiği pixel'i | Dahil değil | Dahil | Dahil |
+| Yapay zeka yönlendirme trafiği pixel'i | Dahil | Dahil | Dahil |
 | Yapay zeka destek sohbeti | Ayda 1,000 mesaj | Ayda 1,000 mesaj | Ayda 1,000 mesaj |
 | Arayüz dilleri | 30 dilin tümü | 30 dilin tümü | 30 dilin tümü |
 

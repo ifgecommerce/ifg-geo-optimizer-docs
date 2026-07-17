@@ -17,7 +17,7 @@ A hagyományos SEO azoknak a keresőmotoroknak optimizál, amelyek linkeket rang
 Nem, semmilyen személyes ügyféladathoz. Az alkalmazás Shopify jogosultságai `read_products`, `write_products`, `read_themes` és `write_pixels` — a katalógusod olvasása és javítása, a téma embed aktív állapotának ellenőrzése, valamint egy anonim, webáruház-forgalmat mérő pixel aktiválása (lásd lentebb). Soha nem kér hozzáférést rendelésekhez vagy ügyféladatokhoz. A teljes részletekért lásd az [Adatvédelmi szabályzatot](privacy.html).
 
 **Mi az AI-eredetű forgalom pixel, és nyomon követi az ügyfeleimet?**
-Grow és Unlimited csomagon egy kis Web Pixel érzékeli, amikor egy webáruház-látogatás egy ismert AI motorból érkezik (a böngésző referrer-je alapján), és jelenti a motort, az oldalt és egy időbélyeget — semmi olyat, ami azonosítaná a látogatót, nincs cookie, nincs munkamenet-adat. Csak akkor fut, ha a látogató már hozzájárult az analitikai adatgyűjtéshez a bolt cookie-bannerén keresztül (Shopify Customer Privacy API). Ezt egy Vezérlőpult csempe megjelenítésére használjuk ("AI-eredetű forgalom, elmúlt 7 nap") — ez a Visibility AI tracking párja, amely azt mutatja meg, hogy megemlítenek-e, de nem azt, hogy az a megemlítés küld-e valakit hozzád.
+Minden csomagon egy kis Web Pixel érzékeli, amikor egy webáruház-látogatás egy ismert AI motorból érkezik (a böngésző referrer-je alapján), és jelenti a motort, az oldalt és egy időbélyeget — semmi olyat, ami azonosítaná a látogatót, nincs cookie, nincs munkamenet-adat. Csak akkor fut, ha a látogató már hozzájárult az analitikai adatgyűjtéshez a bolt cookie-bannerén keresztül (Shopify Customer Privacy API). Ezt egy Vezérlőpult csempe megjelenítésére használjuk ("AI-eredetű forgalom, elmúlt 7 nap") — ez a Visibility AI tracking párja, amely azt mutatja meg, hogy megemlítenek-e, de nem azt, hogy az a megemlítés küld-e valakit hozzád.
 
 **Mit változtat valójában a "Javítás" gomb a katalógus auditban?**
 Hiányzó schema.org strukturált adatot ír egy termék metamezőjébe — olyan dolgokat, mint a meglévő termékopciókból levezetett műszaki specifikációk. Soha nem nyúl a termék címéhez, leírásához, képeihez vagy árához, és soha nem talál ki olyan adatot, amit nem tud ellenőrizni: egy hiányzó vonalkód például hiányzó marad, ahelyett hogy kitalálná.
@@ -41,7 +41,7 @@ Igen. Lépj az **Árazás** oldalra az alkalmazáson belül, és válts Free cso
 | FAQ generálás | Nem elérhető | 500/hónap | 500/hónap |
 | Tartalom átírása | Nem elérhető | 300/hónap | 300/hónap |
 | Visibility AI (követett promptok) | Nem elérhető | 5 prompt | 15 prompt |
-| AI-eredetű forgalom pixel | Nem elérhető | Benne foglalt | Benne foglalt |
+| AI-eredetű forgalom pixel | Benne foglalt | Benne foglalt | Benne foglalt |
 | AI ügyfélszolgálati chat | 1000 üzenet/hónap | 1000 üzenet/hónap | 1000 üzenet/hónap |
 | Felület nyelvei | Mind a 30 | Mind a 30 | Mind a 30 |
 

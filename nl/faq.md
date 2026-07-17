@@ -17,7 +17,7 @@ Traditionele SEO optimaliseert voor zoekmachines die links rangschikken en weerg
 Geen persoonlijke klantgegevens. De Shopify-permissies van de app zijn `read_products`, `write_products`, `read_themes` en `write_pixels` — voor het lezen en verbeteren van je catalogus, het controleren of de thema-embed actief is, en het activeren van een anonieme storefront-verkeerspixel (zie hieronder). De app vraagt nooit toegang tot bestellingen of klantgegevens. Zie het [Privacybeleid](privacy.html) voor het volledige overzicht.
 
 **Wat is de pixel voor AI-doorverwijzingsverkeer, en volgt die mijn klanten?**
-Op Grow en Unlimited detecteert een kleine Web Pixel wanneer een bezoek aan de storefront afkomstig is van een bekende AI-engine (via de browser-referrer) en registreert de engine, de pagina en een tijdstempel — niets wat de bezoeker identificeert, geen cookies, geen sessiedata. De pixel draait alleen als de bezoeker al toestemming heeft gegeven voor analytics via de cookiebanner van je winkel (de Customer Privacy API van Shopify). Dit voedt een tegel op het Dashboard ("AI-doorverwijzingsverkeer, laatste 7 dagen") — het complement van de Visibility AI-tracking, die laat zien of je genoemd wordt maar niet of die vermelding ook iemand doorstuurt.
+Op elk pakket detecteert een kleine Web Pixel wanneer een bezoek aan de storefront afkomstig is van een bekende AI-engine (via de browser-referrer) en registreert de engine, de pagina en een tijdstempel — niets wat de bezoeker identificeert, geen cookies, geen sessiedata. De pixel draait alleen als de bezoeker al toestemming heeft gegeven voor analytics via de cookiebanner van je winkel (de Customer Privacy API van Shopify). Dit voedt een tegel op het Dashboard ("AI-doorverwijzingsverkeer, laatste 7 dagen") — het complement van de Visibility AI-tracking, die laat zien of je genoemd wordt maar niet of die vermelding ook iemand doorstuurt.
 
 **Wat verandert de knop "Herstellen" bij de catalogusaudit precies?**
 Deze schrijft ontbrekende schema.org-gestructureerde data naar een productmetafield — zoals technische specificaties afgeleid van je bestaande productopties. De knop raakt nooit je producttitel, beschrijving, afbeeldingen of prijs aan, en verzint nooit data die niet te verifiëren is: een ontbrekende barcode blijft bijvoorbeeld ontbrekend in plaats van geraden te worden.
@@ -41,7 +41,7 @@ Ja. Ga naar **Prijzen** in de app en schakel op elk moment over naar Free — di
 | FAQ-generatie | Niet inbegrepen | 500/maand | 500/maand |
 | Content herschrijven | Niet inbegrepen | 300/maand | 300/maand |
 | Visibility AI (gevolgde prompts) | Niet inbegrepen | 5 prompts | 15 prompts |
-| Pixel voor AI-doorverwijzingsverkeer | Niet inbegrepen | Inbegrepen | Inbegrepen |
+| Pixel voor AI-doorverwijzingsverkeer | Inbegrepen | Inbegrepen | Inbegrepen |
 | AI-supportchat | 1.000 berichten/maand | 1.000 berichten/maand | 1.000 berichten/maand |
 | Interfacetalen | Alle 30 | Alle 30 | Alle 30 |
 

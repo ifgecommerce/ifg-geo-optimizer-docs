@@ -17,7 +17,7 @@ Traditionel SEO optimerer til søgemaskiner, der rangerer og lister links. GEO (
 Nej, ingen personlige kundedata. Appens Shopify-tilladelser er `read_products`, `write_products`, `read_themes` og `write_pixels` — læsning og forbedring af dit katalog, kontrol af at temaembedden er aktiv, og aktivering af en anonym pixel til storefront-trafik (se nedenfor). Den anmoder aldrig om ordrer eller kundeoplysninger. Se [Privatlivspolitikken](privacy.html) for den fulde gennemgang.
 
 **Hvad er AI-henvisningstrafik-pixlen, og sporer den mine kunder?**
-På Grow og Unlimited registrerer en lille Web Pixel, når et besøg på storefronten kommer fra en kendt AI-motor (via browserens referrer), og rapporterer motoren, siden og et tidsstempel — intet, der identificerer den besøgende, ingen cookies, ingen sessiondata. Den kører kun, hvis den besøgende allerede har givet analysesamtykke gennem din butiks cookiebanner (Shopifys Customer Privacy API). Den bruges til at vise et Dashboard-felt ("AI-henvisningstrafik, seneste 7 dage") — modstykket til Visibility AI-sporingen, som fortæller dig, om du bliver nævnt, men ikke om den omtale sendte nogen.
+På alle planer registrerer en lille Web Pixel, når et besøg på storefronten kommer fra en kendt AI-motor (via browserens referrer), og rapporterer motoren, siden og et tidsstempel — intet, der identificerer den besøgende, ingen cookies, ingen sessiondata. Den kører kun, hvis den besøgende allerede har givet analysesamtykke gennem din butiks cookiebanner (Shopifys Customer Privacy API). Den bruges til at vise et Dashboard-felt ("AI-henvisningstrafik, seneste 7 dage") — modstykket til Visibility AI-sporingen, som fortæller dig, om du bliver nævnt, men ikke om den omtale sendte nogen.
 
 **Hvad ændrer "Fix"-knappen i katalogauditten helt konkret?**
 Den skriver manglende schema.org-strukturerede data til et produkt-metafelt — f.eks. tekniske specifikationer udledt af dine eksisterende produktvalgmuligheder. Den rører aldrig ved din produkttitel, beskrivelse, billeder eller pris, og den opfinder aldrig data, den ikke kan verificere: en manglende stregkode forbliver f.eks. manglende i stedet for at blive gættet.
@@ -41,7 +41,7 @@ Ja. Gå til **Pricing** inde i appen og skift til Free når som helst — det tr
 | FAQ-generering | Ikke inkluderet | 500/måned | 500/måned |
 | Omskrivning af indhold | Ikke inkluderet | 300/måned | 300/måned |
 | Visibility AI (sporede prompts) | Ikke inkluderet | 5 prompts | 15 prompts |
-| AI-henvisningstrafik-pixel | Ikke inkluderet | Inkluderet | Inkluderet |
+| AI-henvisningstrafik-pixel | Inkluderet | Inkluderet | Inkluderet |
 | AI-supportchat | 1.000 beskeder/måned | 1.000 beskeder/måned | 1.000 beskeder/måned |
 | Grænsefladesprog | Alle 30 | Alle 30 | Alle 30 |
 

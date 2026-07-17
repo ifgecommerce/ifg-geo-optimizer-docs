@@ -17,7 +17,7 @@ Klassisches SEO optimiert für Suchmaschinen, die Links ranken und auflisten. GE
 Nein, keine personenbezogenen Kundendaten. Die Shopify-Berechtigungen der App sind `read_products`, `write_products`, `read_themes` und `write_pixels` — zum Lesen und Verbessern Ihres Katalogs, zur Prüfung, ob die Theme-Einbettung aktiv ist, und zur Aktivierung eines anonymen Storefront-Traffic-Pixels (siehe unten). Sie fordert nie Bestellungen oder Kundendatensätze an. Die vollständige Übersicht finden Sie in der [Datenschutzerklärung](privacy.html).
 
 **Was ist der KI-Referral-Traffic-Pixel, und verfolgt er meine Kunden?**
-Bei Grow und Unlimited erkennt ein kleiner Web Pixel, wenn ein Storefront-Besuch von einer bekannten KI-Engine stammt (über den Browser-Referrer), und meldet die Engine, die Seite und einen Zeitstempel — nichts, was den Besucher identifiziert, keine Cookies, keine Sitzungsdaten. Er läuft nur, wenn der Besucher bereits über den Cookie-Banner Ihres Shops der Analyse zugestimmt hat (Shopifys Customer Privacy API). Er wird für eine Dashboard-Kachel genutzt („KI-Referral-Traffic, letzte 7 Tage") — das Gegenstück zum Visibility-AI-Tracking, das Ihnen zeigt, ob Sie erwähnt werden, aber nicht, ob diese Erwähnung jemanden geschickt hat.
+Bei jedem Plan erkennt ein kleiner Web Pixel, wenn ein Storefront-Besuch von einer bekannten KI-Engine stammt (über den Browser-Referrer), und meldet die Engine, die Seite und einen Zeitstempel — nichts, was den Besucher identifiziert, keine Cookies, keine Sitzungsdaten. Er läuft nur, wenn der Besucher bereits über den Cookie-Banner Ihres Shops der Analyse zugestimmt hat (Shopifys Customer Privacy API). Er wird für eine Dashboard-Kachel genutzt („KI-Referral-Traffic, letzte 7 Tage") — das Gegenstück zum Visibility-AI-Tracking, das Ihnen zeigt, ob Sie erwähnt werden, aber nicht, ob diese Erwähnung jemanden geschickt hat.
 
 **Was ändert die Schaltfläche „Beheben" beim Katalog-Audit tatsächlich?**
 Sie schreibt fehlende schema.org-Strukturdaten in ein Produkt-Metafeld — etwa technische Spezifikationen, die aus Ihren vorhandenen Produktoptionen abgeleitet werden. Sie ändert nie Produkttitel, Beschreibung, Bilder oder Preis, und sie erfindet nie Daten, die sie nicht verifizieren kann: Ein fehlender Barcode zum Beispiel bleibt fehlend, statt geraten zu werden.
@@ -41,7 +41,7 @@ Ja. Gehen Sie in der App jederzeit zu **Preise** und wechseln Sie zu Free — di
 | FAQ-Generierung | Nicht enthalten | 500/Monat | 500/Monat |
 | Content-Rewrite | Nicht enthalten | 300/Monat | 300/Monat |
 | Visibility AI (getrackte Prompts) | Nicht enthalten | 5 Prompts | 15 Prompts |
-| KI-Referral-Traffic-Pixel | Nicht enthalten | Enthalten | Enthalten |
+| KI-Referral-Traffic-Pixel | Enthalten | Enthalten | Enthalten |
 | KI-Support-Chat | 1.000 Nachrichten/Monat | 1.000 Nachrichten/Monat | 1.000 Nachrichten/Monat |
 | Oberflächensprachen | Alle 30 | Alle 30 | Alle 30 |
 

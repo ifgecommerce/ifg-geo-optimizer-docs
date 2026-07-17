@@ -17,7 +17,7 @@ O SEO tradicional otimiza para motores de busca que classificam e listam links. 
 Não, nenhum dado pessoal de clientes. As permissões Shopify do app são `read_products`, `write_products`, `read_themes` e `write_pixels` — ler e melhorar seu catálogo, verificar se o embed do tema está ativo, e ativar um pixel anônimo de tráfego da loja (veja abaixo). Ele nunca solicita pedidos ou registros de clientes. Veja a [Privacy Policy](privacy.html) para o detalhamento completo.
 
 **O que é o pixel de tráfego de referência de IA, e ele rastreia meus clientes?**
-No Grow e no Unlimited, um pequeno Web Pixel detecta quando uma visita à loja online chega a partir de um motor de IA conhecido (via referrer do navegador) e informa o motor, a página e um timestamp — nada que identifique o visitante, sem cookies, sem dados de sessão. Ele só é executado se o visitante já tiver dado consentimento de analytics através do banner de cookies da sua loja (Customer Privacy API da Shopify). É usado para exibir um cartão no Dashboard ("Tráfego de referência de IA, últimos 7 dias") — o complemento do rastreamento de Visibility AI, que diz se você é mencionado, mas não se essa menção enviou alguém.
+Em todos os planos, um pequeno Web Pixel detecta quando uma visita à loja online chega a partir de um motor de IA conhecido (via referrer do navegador) e informa o motor, a página e um timestamp — nada que identifique o visitante, sem cookies, sem dados de sessão. Ele só é executado se o visitante já tiver dado consentimento de analytics através do banner de cookies da sua loja (Customer Privacy API da Shopify). É usado para exibir um cartão no Dashboard ("Tráfego de referência de IA, últimos 7 dias") — o complemento do rastreamento de Visibility AI, que diz se você é mencionado, mas não se essa menção enviou alguém.
 
 **O que o botão "Fix" na auditoria do catálogo realmente altera?**
 Ele grava dados estruturados schema.org ausentes em um metafield do produto — coisas como especificações técnicas derivadas das opções já existentes do produto. Ele nunca toca no título, na descrição, nas imagens ou no preço do seu produto, e nunca inventa dados que não consegue verificar: um código de barras ausente, por exemplo, permanece ausente em vez de ser adivinhado.
@@ -41,7 +41,7 @@ Sim. Vá em **Pricing** dentro do app e mude para o Free a qualquer momento — 
 | Geração de FAQ | Não incluído | 500/mês | 500/mês |
 | Reescrita de conteúdo | Não incluído | 300/mês | 300/mês |
 | Visibility AI (prompts rastreados) | Não incluído | 5 prompts | 15 prompts |
-| Pixel de tráfego de referência de IA | Não incluído | Incluído | Incluído |
+| Pixel de tráfego de referência de IA | Incluído | Incluído | Incluído |
 | Chat de suporte com IA | 1.000 mensagens/mês | 1.000 mensagens/mês | 1.000 mensagens/mês |
 | Idiomas da interface | Todos os 30 | Todos os 30 | Todos os 30 |
 

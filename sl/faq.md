@@ -17,7 +17,7 @@ Tradicionalni SEO optimizira za iskalnike, ki razvrščajo in naštevajo povezav
 Ne, do osebnih podatkov strank ne dostopa. Dovoljenja aplikacije v Shopify so `read_products`, `write_products`, `read_themes` in `write_pixels` — branje in izboljševanje vašega kataloga, preverjanje, ali je vgrajeni element teme aktiven, ter aktivacija anonimnega piksela za promet spletne trgovine (glejte spodaj). Aplikacija nikoli ne zahteva naročil ali evidenc strank. Za popoln pregled glejte [Politiko zasebnosti](privacy.html).
 
 **Kaj je piksel za napotitveni promet iz AI in ali sledi mojim strankam?**
-Pri paketih Grow in Unlimited majhen Web Pixel zazna, ko obisk spletne trgovine prispe iz znanega sistema AI (prek referrerja brskalnika), in poroča sistem, stran ter časovni žig — nič, kar bi identificiralo obiskovalca, brez piškotkov, brez podatkov o seji. Deluje samo, če je obiskovalec že podal privolitev za analitiko prek pasice s piškotki vaše trgovine (Shopify Customer Privacy API). Uporablja se za prikaz ploščice na nadzorni plošči ("Napotitveni promet iz AI, zadnjih 7 dni") — dopolnilo k sledenju Vidnosti AI, ki pove, ali ste omenjeni, ne pa, ali je ta omemba komu poslala obiskovalce.
+Pri vsakem paketu majhen Web Pixel zazna, ko obisk spletne trgovine prispe iz znanega sistema AI (prek referrerja brskalnika), in poroča sistem, stran ter časovni žig — nič, kar bi identificiralo obiskovalca, brez piškotkov, brez podatkov o seji. Deluje samo, če je obiskovalec že podal privolitev za analitiko prek pasice s piškotki vaše trgovine (Shopify Customer Privacy API). Uporablja se za prikaz ploščice na nadzorni plošči ("Napotitveni promet iz AI, zadnjih 7 dni") — dopolnilo k sledenju Vidnosti AI, ki pove, ali ste omenjeni, ne pa, ali je ta omemba komu poslala obiskovalce.
 
 **Kaj gumb "Popravi" pri reviziji kataloga dejansko spremeni?**
 Zapiše manjkajoče strukturirane podatke schema.org v metapolje izdelka — na primer tehnične specifikacije, izpeljane iz obstoječih možnosti izdelka. Nikoli se ne dotakne naslova, opisa, slik ali cene izdelka in nikoli ne izmisli podatkov, ki jih ne more preveriti: manjkajoča črtna koda, na primer, ostane manjkajoča, namesto da bi bila ugibana.
@@ -41,7 +41,7 @@ Da. Pojdite v razdelek **Cenik** znotraj aplikacije in kadar koli preklopite na 
 | Generiranje pogostih vprašanj | Ni vključeno | 500/mesec | 500/mesec |
 | Preoblikovanje vsebine | Ni vključeno | 300/mesec | 300/mesec |
 | Vidnost AI (sledeni pozivi) | Ni vključeno | 5 pozivov | 15 pozivov |
-| Piksel napotitvenega prometa iz AI | Ni vključeno | Vključeno | Vključeno |
+| Piksel napotitvenega prometa iz AI | Vključeno | Vključeno | Vključeno |
 | Klepet podpore AI | 1.000 sporočil/mesec | 1.000 sporočil/mesec | 1.000 sporočil/mesec |
 | Jeziki vmesnika | Vseh 30 | Vseh 30 | Vseh 30 |
 

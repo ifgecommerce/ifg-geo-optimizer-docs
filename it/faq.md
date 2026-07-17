@@ -17,7 +17,7 @@ La SEO tradizionale ottimizza per i motori di ricerca che classificano ed elenca
 Nessun dato personale dei clienti. I permessi Shopify dell'app sono `read_products`, `write_products`, `read_themes` e `write_pixels` — leggere e migliorare il catalogo, verificare che il blocco tema sia attivo, e attivare un pixel anonimo di traffico storefront (vedi sotto). Non richiede mai accesso a ordini o dati clienti. Consulta la [Privacy Policy](privacy.html) per il dettaglio completo.
 
 **Cos'è il pixel di traffico da citazioni AI, e traccia i miei clienti?**
-Su Grow e Unlimited, un piccolo Web Pixel rileva quando una visita al negozio arriva da un motore AI noto (tramite il referrer del browser) e registra il motore, la pagina e un timestamp — nulla che identifichi il visitatore, nessun cookie, nessun dato di sessione. Gira solo se il visitatore ha già dato il consenso all'analisi tramite il banner cookie del negozio (Customer Privacy API di Shopify). Alimenta un tile della Dashboard ("Traffico da citazioni AI, ultimi 7 giorni") — il complemento del tracking Visibilità AI, che dice se sei citato ma non se quella citazione porta traffico.
+Su ogni piano, un piccolo Web Pixel rileva quando una visita al negozio arriva da un motore AI noto (tramite il referrer del browser) e registra il motore, la pagina e un timestamp — nulla che identifichi il visitatore, nessun cookie, nessun dato di sessione. Gira solo se il visitatore ha già dato il consenso all'analisi tramite il banner cookie del negozio (Customer Privacy API di Shopify). Alimenta un tile della Dashboard ("Traffico da citazioni AI, ultimi 7 giorni") — il complemento del tracking Visibilità AI, che dice se sei citato ma non se quella citazione porta traffico.
 
 **Cosa cambia davvero il pulsante "Correggi" nell'audit catalogo?**
 Scrive i dati strutturati schema.org mancanti in un metafield del prodotto — cose come le specifiche tecniche derivate dalle opzioni prodotto già esistenti. Non tocca mai il titolo, la descrizione, le immagini o il prezzo del tuo prodotto, e non inventa mai dati che non può verificare: un codice a barre mancante, ad esempio, resta mancante invece di essere indovinato.
@@ -41,7 +41,7 @@ Sì. Vai su **Piani** dentro l'app e passa a Free in qualsiasi momento — ha ef
 | Generazione FAQ | Non incluso | 500/mese | 500/mese |
 | Riscrittura contenuti | Non incluso | 300/mese | 300/mese |
 | Visibilità AI (domande monitorate) | Non incluso | 5 domande | 15 domande |
-| Pixel traffico da citazioni AI | Non incluso | Incluso | Incluso |
+| Pixel traffico da citazioni AI | Incluso | Incluso | Incluso |
 | Chat di assistenza AI | 1.000 messaggi/mese | 1.000 messaggi/mese | 1.000 messaggi/mese |
 | Lingue interfaccia | Tutte e 30 | Tutte e 30 | Tutte e 30 |
 
